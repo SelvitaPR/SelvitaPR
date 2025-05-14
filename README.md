@@ -1,6 +1,1 @@
-Biologist in the process of becoming a Data Engineer.
-Plant Based.
-Muay Thai artist.
-Love Techno and cats.
-Pronouns They/Them.
-Call me Selva :) 
+Passionate biologist and Team Leader Scientist currently transitioning into data engineering. I’m diving deep into Python, SQL, cloud architecture (AWS), and modern data workflows. With a strong foundation in scientific problem-solving, I’m now building skills in data pipelines, infrastructure as code, and warehouse design. Excited about turning complex data into insight — and always up for learning something new!
